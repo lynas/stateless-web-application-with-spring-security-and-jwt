@@ -1,5 +1,4 @@
-# swa-wss-jwt
-Stateless web application with spring security and JWT
+# Stateless web application with spring security and JWT
 
 - Open the project with any IDE
 - In the terminal go to your project location
